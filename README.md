@@ -1,4 +1,4 @@
-# yak.com
+# yakmcsussybaka.com
 <!DOCTYPE html>
 <html>
     <head>
