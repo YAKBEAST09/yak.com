@@ -1,4 +1,4 @@
-# yakmcsussybaka.com
+# yakmcsussybaka.github.io
 <!DOCTYPE html>
 <html>
     <head>
